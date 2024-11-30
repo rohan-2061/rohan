@@ -5,7 +5,7 @@
 </em></p>
 
 [![Linkedin: rohan](https://img.shields.io/badge/-rohan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohan-s-mulik/)](https://www.linkedin.com/in/rohan-mulik2061/)
-![GitHub followers]([https://img.shields.io/github/followers/anmol098?label=Follow&style=socia](https://github.com/rohan-2061/rohan)l)
+![GitHub followers]([https://img.shields.io/github/followers/anmol098?label=Follow&style=social](https://github.com/rohan-2061/rohan))
 
 ### 📫 Like to meet me?
 
